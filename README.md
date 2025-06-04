@@ -1,0 +1,1 @@
+This csv file corresponds to the complete Table 3 of the Ph.D. in Engineering thesis Detection and Analysis of Distance Indicator Stars and the corresponding published article by Muñoz, J., et al. 2025  Universidad de los Andes, Bogotá Colombia
